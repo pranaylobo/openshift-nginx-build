@@ -1,0 +1,2 @@
+# openshift-nginx-build
+nginx
